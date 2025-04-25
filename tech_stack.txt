@@ -1,0 +1,14 @@
+本项目所用技术及工具：
+
+1. React
+   官网：https://react.dev/
+2. TypeScript
+   官网：https://www.typescriptlang.org/
+3. Vite
+   官网：https://vitejs.dev/
+4. CSS（原生样式）
+   参考：https://developer.mozilla.org/zh-CN/docs/Web/CSS
+5. Node.js（开发环境依赖）
+   官网：https://nodejs.org/
+
+项目结构采用 Vite 官方 React + TypeScript 模板，静态资源（如个人照片）存放于 public 目录。
