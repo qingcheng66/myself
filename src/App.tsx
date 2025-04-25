@@ -4,31 +4,34 @@ function App() {
   return (
     <div className="resume-container">
       <div className="resume-header">
-        <img src="/profile.jpg" alt="个人照片" className="profile-photo" />
+        <img src="/1120835055.jpg" alt="个人照片" className="profile-photo" />
         <div>
-          <h1>张三</h1>
-          <p>学历：硕士研究生</p>
+          <h1>刘仁晓君</h1>
+          <p>学历：本科</p>
+          <p>联系方式：18888888888 / liurx@example.com</p>
+          <p>生日：1999-08-15</p>
+          <p>性别：女</p>
+          <p>性格：开朗、细心、responsibility</p>
         </div>
       </div>
       <section className="resume-section">
         <h2>学习经历</h2>
         <ul>
-          <li>2021-2024 北京大学 计算机科学与技术 硕士</li>
-          <li>2017-2021 清华大学 软件工程 本科</li>
+          
+          <li>2017-2021 南京中医药大学 软件工程 本科</li>
         </ul>
       </section>
       <section className="resume-section">
         <h2>实习经历</h2>
         <ul>
-          <li>2023.06-2023.09 字节跳动 前端开发实习生</li>
-          <li>2022.07-2022.09 腾讯云 Web开发实习生</li>
+          <li>期待贵公司成为我的第一家实习公司</li>
         </ul>
       </section>
       <section className="resume-section">
         <h2>项目经历</h2>
         <ul>
           <li>个人博客系统开发（React + Node.js）</li>
-          <li>智能问答小程序（微信小程序）</li>
+          <li>网页贪吃蛇小游戏</li>
         </ul>
       </section>
       <section className="resume-section">
