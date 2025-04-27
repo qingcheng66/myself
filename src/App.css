@@ -65,16 +65,16 @@ body {
 .info-item {
   display: flex;
   align-items: baseline;
-  flex-wrap: wrap;
-  gap: 8px 16px;
+  flex-wrap: nowrap;
+  gap: 8px 8px;
   margin-bottom: 12px;
 }
 
 .info-label {
-  min-width: 80px;
+  min-width: 60px;
   color: #666;
   font-weight: 500;
-  margin-right: 16px;
+  margin-right: 8px;
 }
 
 .info-content {
