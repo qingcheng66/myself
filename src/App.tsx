@@ -49,7 +49,7 @@ function App() {
         <section className="resume-section">
           <h2>学习经历</h2>
           <ul>
-            <li>2017-2021 南京中医药大学 软件工程 本科</li>
+            <li>2023-2027 南京中医药大学 软件工程 本科</li>
           </ul>
         </section>
         <section className="resume-section">
